@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-dndshop/static/css/main.19ed6674.css",
+    "main.js": "/react-dndshop/static/js/main.9de08d38.js",
+    "static/media/cart.png": "/react-dndshop/static/media/cart.41f0e4cf6c4c8b9322b9.png",
+    "static/media/banana.png": "/react-dndshop/static/media/banana.9ed1374e561a90dd6291.png",
+    "index.html": "/react-dndshop/index.html",
+    "main.19ed6674.css.map": "/react-dndshop/static/css/main.19ed6674.css.map",
+    "main.9de08d38.js.map": "/react-dndshop/static/js/main.9de08d38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19ed6674.css",
+    "static/js/main.9de08d38.js"
+  ]
+}
